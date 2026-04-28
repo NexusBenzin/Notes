@@ -16,7 +16,7 @@ else: # What will happen if the statement is NOT true
 # > - Greater than or equal to
 # < - Less than or equal to
 
-# Comparison can used with other data types than integers
+# Comparison can be used with other data types than integers
 
 first_name = "Timotej"
 last_name = "Petrik"

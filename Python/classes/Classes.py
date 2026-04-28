@@ -32,7 +32,7 @@ class Test2:
 # Now I can call self.Name in ANY of the methods in that class
 
 
-# Lets make a class "Dog"
+# Let's make a class "Dog"
 
 class Dog:
     def __init__(self, name, color): # Constructor, I have parameters self, Name and color
